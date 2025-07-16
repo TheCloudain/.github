@@ -1,3 +1,7 @@
+<img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/d8e046f1-f964-4e05-8672-c777dd7e523e" />
+
+
+
 # Cloudain
 
 **Cloudain is a California-based cloud and AI solutions company empowering businesses to scale, innovate, and succeed in the digital age.**  
